@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eugene-chernushevich.github.io/sitemap.xml
